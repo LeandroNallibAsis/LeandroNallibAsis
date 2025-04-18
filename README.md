@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Leandro Asis
 
-![Banner]([https://github.com/LeandroNallibAsis/LeandroNallibAsis/blob/main/banner.png](https://github.com/LeandroNallibAsis/LeandroNallibAsis/blob/main/banner.jpeg))
+![Banner](https://github.com/LeandroNallibAsis/LeandroNallibAsis/blob/main/banner.jpeg)
 
 💻 Desarrollador web & software  
 🛠️ Stack: C#, SQL Server, HTML, CSS, JavaScript  
