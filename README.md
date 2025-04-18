@@ -18,9 +18,3 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
-
-### 📸 Foto de perfil
-
-<img src="https://github.com/LeandroNallibAsis/LeandroNallibAsis/blob/main/perfil.png" width="150" style="border-radius: 50%;" alt="Leandro Asis"/>
-
-
